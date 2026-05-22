@@ -13,10 +13,10 @@ This portfolio showcases hands-on labs and real-world IT support scenarios built
 
   - <a href="https://github.com/keanucornellwilderIT/Azure-Helpdesk-Active-Directory-Lab#azure-vm-deployment">Azure VM Deployment</a>
   - <a href="https://github.com/keanucornellwilderIT/Azure-Helpdesk-Active-Directory-Lab#active-directory-domain-services-setup">Active Directory Domain Services Setup</a>
-  - <a href="https://github.com/keanucornellwilderIT/Azure-Helpdesk-Active-Directory-Lab#dns-configuration">DNS Configuration</a>
-  - <a href="https://github.com/keanucornellwilderIT/Azure-Helpdesk-Active-Directory-Lab#domain-join-troubleshooting">Domain Join Troubleshooting</a>
+  - <a href="https://github.com/keanucornellwilderIT/Azure-Helpdesk-Active-Directory-Lab#dns-configuration-and-domain-join-troubleshooting">DNS Configuration and Domain Join Troubleshooting</a>
   - <a href="https://github.com/keanucornellwilderIT/Azure-Helpdesk-Active-Directory-Lab#user-and-group-management">User and Group Management</a>
-  - <a href="https://github.com/keanucornellwilderIT/Azure-Helpdesk-Active-Directory-Lab#account-lockout-troubleshooting">Account Lockout Troubleshooting</a>
+  - <a href="https://github.com/keanucornellwilderIT/Azure-Helpdesk-Active-Directory-Lab#help-desk-scenarios">Help Desk Scenarios</a>
+  - <a href="https://github.com/keanucornellwilderIT/Azure-Helpdesk-Active-Directory-Lab#file-shares-and-permissions">File Shares and Permissions</a>
   - <a href="https://github.com/keanucornellwilderIT/Azure-Helpdesk-Active-Directory-Lab#group-policy-configuration">Group Policy Configuration</a>
 
 ---
