@@ -1,87 +1,86 @@
-<h1>Hi, I'm Keanu, an <a href=https://www.linkedin.com/in/keanuwilder/>IT Support & Cloud Professional</a>👨‍💻</h1>
+<h1>Hi, I'm Keanu, an <a href="https://www.linkedin.com/in/keanuwilder/">IT Support & Cloud Professional</a> 👨‍💻</h1>
 
 <p>
 Aspiring IT Support and Cloud professional passionate about troubleshooting, enterprise infrastructure, Microsoft technologies, and cloud environments.  
-This portfolio showcases hands on labs and real-world IT support scenarios built using Microsoft Azure, Windows Server, Active Directory, Microsoft 365, networking tools, and automation.
+This portfolio showcases hands-on labs and real-world IT support scenarios built using Microsoft Azure, Windows Server, Active Directory, Microsoft 365, networking tools, and automation.
 </p>
 
 ---
 
 <h2>🖥️ Help Desk & IT Support Projects:</h2>
 
-- <b>Azure Active Directory Help Desk Lab</b>
+- <b><a href="https://github.com/keanucornellwilderIT/Azure-Helpdesk-Active-Directory-Lab">Azure Active Directory Help Desk Lab</a></b>
 
-  - [Azure VM Deployment](LINK_HERE)
-  - [Active Directory Domain Services Setup](LINK_HERE)
-  - [DNS Configuration](LINK_HERE)
-  - [Domain Join Troubleshooting](LINK_HERE)
-  - [User & Group Management](LINK_HERE)
-  - [Account Lockout Troubleshooting](LINK_HERE)
-  - [Group Policy Configuration](LINK_HERE)
-
----
-
-- <b>osTicket Help Desk Ticketing System</b>
-
-  - [osTicket Installation & Configuration](LINK_HERE)
-  - [Ticket Lifecycle Scenarios](LINK_HERE)
-  - [SLA & Escalation Workflow](LINK_HERE)
-  - [Password Reset Ticket Scenario](LINK_HERE)
-  - [Printer Troubleshooting Ticket Scenario](LINK_HERE)
+  - <a href="https://github.com/keanucornellwilderIT/Azure-Helpdesk-Active-Directory-Lab#azure-vm-deployment">Azure VM Deployment</a>
+  - <a href="https://github.com/keanucornellwilderIT/Azure-Helpdesk-Active-Directory-Lab#active-directory-domain-services-setup">Active Directory Domain Services Setup</a>
+  - <a href="https://github.com/keanucornellwilderIT/Azure-Helpdesk-Active-Directory-Lab#dns-configuration">DNS Configuration</a>
+  - <a href="https://github.com/keanucornellwilderIT/Azure-Helpdesk-Active-Directory-Lab#domain-join-troubleshooting">Domain Join Troubleshooting</a>
+  - <a href="https://github.com/keanucornellwilderIT/Azure-Helpdesk-Active-Directory-Lab#user-and-group-management">User and Group Management</a>
+  - <a href="https://github.com/keanucornellwilderIT/Azure-Helpdesk-Active-Directory-Lab#account-lockout-troubleshooting">Account Lockout Troubleshooting</a>
+  - <a href="https://github.com/keanucornellwilderIT/Azure-Helpdesk-Active-Directory-Lab#group-policy-configuration">Group Policy Configuration</a>
 
 ---
 
-- <b>Enterprise File Share & Printer Lab</b>
+- <b><a href="https://github.com/keanucornellwilderIT/osTicket-Helpdesk-Ticketing-System">osTicket Help Desk Ticketing System</a></b>
 
-  - [SMB File Share Configuration](LINK_HERE)
-  - [NTFS & Share Permissions](LINK_HERE)
-  - [Mapped Drive Troubleshooting](LINK_HERE)
-  - [Print Server Deployment](LINK_HERE)
-  - [Printer Queue Troubleshooting](LINK_HERE)
+  - <a href="https://github.com/keanucornellwilderIT/osTicket-Helpdesk-Ticketing-System#osticket-installation-and-configuration">osTicket Installation and Configuration</a>
+  - <a href="https://github.com/keanucornellwilderIT/osTicket-Helpdesk-Ticketing-System#ticket-lifecycle-scenarios">Ticket Lifecycle Scenarios</a>
+  - <a href="https://github.com/keanucornellwilderIT/osTicket-Helpdesk-Ticketing-System#sla-and-escalation-workflow">SLA and Escalation Workflow</a>
+  - <a href="https://github.com/keanucornellwilderIT/osTicket-Helpdesk-Ticketing-System#password-reset-ticket-scenario">Password Reset Ticket Scenario</a>
+  - <a href="https://github.com/keanucornellwilderIT/osTicket-Helpdesk-Ticketing-System#printer-troubleshooting-ticket-scenario">Printer Troubleshooting Ticket Scenario</a>
 
 ---
 
-- <b>Network Troubleshooting & Wireshark Lab</b>
+- <b><a href="https://github.com/keanucornellwilderIT/Enterprise-FileShare-Printer-Lab">Enterprise File Share and Printer Lab</a></b>
 
-  - [DNS Troubleshooting](LINK_HERE)
-  - [DHCP Configuration](LINK_HERE)
-  - [Packet Capture Analysis](LINK_HERE)
-  - [Ping & Traceroute Diagnostics](LINK_HERE)
-  - [Connectivity Troubleshooting](LINK_HERE)
+  - <a href="https://github.com/keanucornellwilderIT/Enterprise-FileShare-Printer-Lab#smb-file-share-configuration">SMB File Share Configuration</a>
+  - <a href="https://github.com/keanucornellwilderIT/Enterprise-FileShare-Printer-Lab#ntfs-and-share-permissions">NTFS and Share Permissions</a>
+  - <a href="https://github.com/keanucornellwilderIT/Enterprise-FileShare-Printer-Lab#mapped-drive-troubleshooting">Mapped Drive Troubleshooting</a>
+  - <a href="https://github.com/keanucornellwilderIT/Enterprise-FileShare-Printer-Lab#print-server-deployment">Print Server Deployment</a>
+  - <a href="https://github.com/keanucornellwilderIT/Enterprise-FileShare-Printer-Lab#printer-queue-troubleshooting">Printer Queue Troubleshooting</a>
+
+---
+
+- <b><a href="https://github.com/keanucornellwilderIT/Network-Troubleshooting-Wireshark-Lab">Network Troubleshooting and Wireshark Lab</a></b>
+
+  - <a href="https://github.com/keanucornellwilderIT/Network-Troubleshooting-Wireshark-Lab#dns-troubleshooting">DNS Troubleshooting</a>
+  - <a href="https://github.com/keanucornellwilderIT/Network-Troubleshooting-Wireshark-Lab#dhcp-configuration">DHCP Configuration</a>
+  - <a href="https://github.com/keanucornellwilderIT/Network-Troubleshooting-Wireshark-Lab#packet-capture-analysis">Packet Capture Analysis</a>
+  - <a href="https://github.com/keanucornellwilderIT/Network-Troubleshooting-Wireshark-Lab#ping-and-traceroute-diagnostics">Ping and Traceroute Diagnostics</a>
+  - <a href="https://github.com/keanucornellwilderIT/Network-Troubleshooting-Wireshark-Lab#connectivity-troubleshooting">Connectivity Troubleshooting</a>
 
 ---
 
 <h2>☁️ Cloud & Infrastructure Projects:</h2>
 
-- <b>Azure Infrastructure & Networking Lab</b>
+- <b><a href="https://github.com/keanucornellwilderIT/Azure-Infrastructure-Networking-Lab">Azure Infrastructure and Networking Lab</a></b>
 
-  - [Azure Virtual Networks & Subnets](LINK_HERE)
-  - [Network Security Groups (NSGs)](LINK_HERE)
-  - [Azure VM Deployment](LINK_HERE)
-  - [Azure Storage Configuration](LINK_HERE)
-  - [VPN & Remote Access](LINK_HERE)
-  - [Azure Monitoring & Alerts](LINK_HERE)
-
----
-
-- <b>Microsoft 365 & Identity Management Lab</b>
-
-  - [Entra ID User Management](LINK_HERE)
-  - [MFA & Conditional Access](LINK_HERE)
-  - [Intune Device Management](LINK_HERE)
-  - [Microsoft 365 Administration](LINK_HERE)
-  - [Exchange & Outlook Troubleshooting](LINK_HERE)
+  - <a href="https://github.com/keanucornellwilderIT/Azure-Infrastructure-Networking-Lab#azure-virtual-networks-and-subnets">Azure Virtual Networks and Subnets</a>
+  - <a href="https://github.com/keanucornellwilderIT/Azure-Infrastructure-Networking-Lab#network-security-groups-nsgs">Network Security Groups (NSGs)</a>
+  - <a href="https://github.com/keanucornellwilderIT/Azure-Infrastructure-Networking-Lab#azure-vm-deployment">Azure VM Deployment</a>
+  - <a href="https://github.com/keanucornellwilderIT/Azure-Infrastructure-Networking-Lab#azure-storage-configuration">Azure Storage Configuration</a>
+  - <a href="https://github.com/keanucornellwilderIT/Azure-Infrastructure-Networking-Lab#vpn-and-remote-access">VPN and Remote Access</a>
+  - <a href="https://github.com/keanucornellwilderIT/Azure-Infrastructure-Networking-Lab#azure-monitoring-and-alerts">Azure Monitoring and Alerts</a>
 
 ---
 
-- <b>PowerShell Automation Lab</b>
+- <b><a href="https://github.com/keanucornellwilderIT/Microsoft365-Identity-Management-Lab">Microsoft 365 and Identity Management Lab</a></b>
 
-  - [Bulk User Creation Script](LINK_HERE)
-  - [Password Reset Automation](LINK_HERE)
-  - [Disk Cleanup Automation](LINK_HERE)
-  - [System Inventory Reporting](LINK_HERE)
-  - [Active Directory Automation](LINK_HERE)
+  - <a href="https://github.com/keanucornellwilderIT/Microsoft365-Identity-Management-Lab#entra-id-user-management">Entra ID User Management</a>
+  - <a href="https://github.com/keanucornellwilderIT/Microsoft365-Identity-Management-Lab#mfa-and-conditional-access">MFA and Conditional Access</a>
+  - <a href="https://github.com/keanucornellwilderIT/Microsoft365-Identity-Management-Lab#intune-device-management">Intune Device Management</a>
+  - <a href="https://github.com/keanucornellwilderIT/Microsoft365-Identity-Management-Lab#microsoft-365-administration">Microsoft 365 Administration</a>
+  - <a href="https://github.com/keanucornellwilderIT/Microsoft365-Identity-Management-Lab#exchange-and-outlook-troubleshooting">Exchange and Outlook Troubleshooting</a>
 
+---
+
+- <b><a href="https://github.com/keanucornellwilderIT/PowerShell-Automation-Lab">PowerShell Automation Lab</a></b>
+
+  - <a href="https://github.com/keanucornellwilderIT/PowerShell-Automation-Lab#bulk-user-creation-script">Bulk User Creation Script</a>
+  - <a href="https://github.com/keanucornellwilderIT/PowerShell-Automation-Lab#password-reset-automation">Password Reset Automation</a>
+  - <a href="https://github.com/keanucornellwilderIT/PowerShell-Automation-Lab#disk-cleanup-automation">Disk Cleanup Automation</a>
+  - <a href="https://github.com/keanucornellwilderIT/PowerShell-Automation-Lab#system-inventory-reporting">System Inventory Reporting</a>
+  - <a href="https://github.com/keanucornellwilderIT/PowerShell-Automation-Lab#active-directory-automation">Active Directory Automation</a>
 ---
 
 <h2>📚 Technical Skills:</h2>
