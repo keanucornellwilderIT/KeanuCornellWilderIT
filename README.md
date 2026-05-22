@@ -9,134 +9,78 @@ This portfolio showcases hands on labs and real-world IT support scenarios built
 
 <h2>🖥️ Help Desk & IT Support Projects:</h2>
 
-### <b>Azure Active Directory Help Desk Lab</b>
-Repository: `Azure-Helpdesk-Active-Directory-Lab`
+- <b>Azure Active Directory Help Desk Lab</b>
 
-- [Azure VM Deployment](LINK_HERE)
-- [Active Directory Domain Services Setup](LINK_HERE)
-- [DNS Configuration](LINK_HERE)
-- [Domain Join Troubleshooting](LINK_HERE)
-- [User & Group Management](LINK_HERE)
-- [Account Lockout Troubleshooting](LINK_HERE)
-- [Group Policy Configuration](LINK_HERE)
-
-Skills:
-- Active Directory
-- DNS
-- Group Policy
-- Windows Server
-- Authentication Troubleshooting
-- Azure Virtual Machines
+  - [Azure VM Deployment](LINK_HERE)
+  - [Active Directory Domain Services Setup](LINK_HERE)
+  - [DNS Configuration](LINK_HERE)
+  - [Domain Join Troubleshooting](LINK_HERE)
+  - [User & Group Management](LINK_HERE)
+  - [Account Lockout Troubleshooting](LINK_HERE)
+  - [Group Policy Configuration](LINK_HERE)
 
 ---
 
-### <b>osTicket Help Desk Ticketing System</b>
-Repository: `osTicket-Helpdesk-Ticketing-System`
+- <b>osTicket Help Desk Ticketing System</b>
 
-- [osTicket Installation & Configuration](LINK_HERE)
-- [Ticket Lifecycle Scenarios](LINK_HERE)
-- [SLA & Escalation Workflow](LINK_HERE)
-- [Password Reset Ticket Scenario](LINK_HERE)
-- [Printer Troubleshooting Ticket Scenario](LINK_HERE)
-
-Skills:
-- Help Desk Operations
-- Ticket Management
-- Troubleshooting Documentation
-- Customer Support Workflow
+  - [osTicket Installation & Configuration](LINK_HERE)
+  - [Ticket Lifecycle Scenarios](LINK_HERE)
+  - [SLA & Escalation Workflow](LINK_HERE)
+  - [Password Reset Ticket Scenario](LINK_HERE)
+  - [Printer Troubleshooting Ticket Scenario](LINK_HERE)
 
 ---
 
-### <b>Enterprise File Share & Printer Lab</b>
-Repository: `Enterprise-FileShare-Printer-Lab`
+- <b>Enterprise File Share & Printer Lab</b>
 
-- [SMB File Share Configuration](LINK_HERE)
-- [NTFS & Share Permissions](LINK_HERE)
-- [Mapped Drive Troubleshooting](LINK_HERE)
-- [Print Server Deployment](LINK_HERE)
-- [Printer Queue Troubleshooting](LINK_HERE)
-
-Skills:
-- File Share Permissions
-- Windows Administration
-- Printer Troubleshooting
-- Access Control
-- Enterprise Support
+  - [SMB File Share Configuration](LINK_HERE)
+  - [NTFS & Share Permissions](LINK_HERE)
+  - [Mapped Drive Troubleshooting](LINK_HERE)
+  - [Print Server Deployment](LINK_HERE)
+  - [Printer Queue Troubleshooting](LINK_HERE)
 
 ---
 
-### <b>Network Troubleshooting & Wireshark Lab</b>
-Repository: `Network-Troubleshooting-Wireshark-Lab`
+- <b>Network Troubleshooting & Wireshark Lab</b>
 
-- [DNS Troubleshooting](LINK_HERE)
-- [DHCP Configuration](LINK_HERE)
-- [Packet Capture Analysis](LINK_HERE)
-- [Ping & Traceroute Diagnostics](LINK_HERE)
-- [Connectivity Troubleshooting](LINK_HERE)
-
-Skills:
-- Networking
-- Wireshark
-- DNS
-- DHCP
-- Troubleshooting Methodology
+  - [DNS Troubleshooting](LINK_HERE)
+  - [DHCP Configuration](LINK_HERE)
+  - [Packet Capture Analysis](LINK_HERE)
+  - [Ping & Traceroute Diagnostics](LINK_HERE)
+  - [Connectivity Troubleshooting](LINK_HERE)
 
 ---
 
 <h2>☁️ Cloud & Infrastructure Projects:</h2>
 
-### <b>Azure Infrastructure & Networking Lab</b>
-Repository: `Azure-Infrastructure-Networking-Lab`
+- <b>Azure Infrastructure & Networking Lab</b>
 
-- [Azure Virtual Networks & Subnets](LINK_HERE)
-- [Network Security Groups (NSGs)](LINK_HERE)
-- [Azure VM Deployment](LINK_HERE)
-- [Azure Storage Configuration](LINK_HERE)
-- [VPN & Remote Access](LINK_HERE)
-- [Azure Monitoring & Alerts](LINK_HERE)
-
-Skills:
-- Microsoft Azure
-- Cloud Networking
-- Infrastructure Deployment
-- Azure Security
-- Monitoring & Alerting
+  - [Azure Virtual Networks & Subnets](LINK_HERE)
+  - [Network Security Groups (NSGs)](LINK_HERE)
+  - [Azure VM Deployment](LINK_HERE)
+  - [Azure Storage Configuration](LINK_HERE)
+  - [VPN & Remote Access](LINK_HERE)
+  - [Azure Monitoring & Alerts](LINK_HERE)
 
 ---
 
-### <b>Microsoft 365 & Identity Management Lab</b>
-Repository: `Microsoft365-Identity-Management-Lab`
+- <b>Microsoft 365 & Identity Management Lab</b>
 
-- [Entra ID User Management](LINK_HERE)
-- [MFA & Conditional Access](LINK_HERE)
-- [Intune Device Management](LINK_HERE)
-- [Microsoft 365 Administration](LINK_HERE)
-- [Exchange & Outlook Troubleshooting](LINK_HERE)
-
-Skills:
-- Microsoft 365
-- Entra ID
-- Intune
-- MFA
-- Identity & Access Management
+  - [Entra ID User Management](LINK_HERE)
+  - [MFA & Conditional Access](LINK_HERE)
+  - [Intune Device Management](LINK_HERE)
+  - [Microsoft 365 Administration](LINK_HERE)
+  - [Exchange & Outlook Troubleshooting](LINK_HERE)
 
 ---
 
-### <b>PowerShell Automation Lab</b>
-Repository: `PowerShell-Automation-Lab`
+- <b>PowerShell Automation Lab</b>
 
-- [Bulk User Creation Script](LINK_HERE)
-- [Password Reset Automation](LINK_HERE)
-- [Disk Cleanup Automation](LINK_HERE)
-- [System Inventory Reporting](LINK_HERE)
-- [Active Directory Automation](LINK_HERE)
-
-Skills:
-- PowerShell
-- Automation
-- Scripting
-- Active Directory Automation
-- IT Operations
+  - [Bulk User Creation Script](LINK_HERE)
+  - [Password Reset Automation](LINK_HERE)
+  - [Disk Cleanup Automation](LINK_HERE)
+  - [System Inventory Reporting](LINK_HERE)
+  - [Active Directory Automation](LINK_HERE)
 
 ---
 
@@ -170,13 +114,6 @@ Skills:
 - TCP/IP
 - Wireshark
 - Network Troubleshooting
-
-### IT Support
-- Ticketing Systems
-- Printer Troubleshooting
-- File Share Permissions
-- Remote Desktop Support
-- User Account Management
 
 ### Automation
 - PowerShell
