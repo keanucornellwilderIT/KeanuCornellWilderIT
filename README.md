@@ -1,10 +1,5 @@
 <h1>Hi, I'm Keanu, an <a href="https://www.linkedin.com/in/keanuwilder/">IT Support & Cloud Professional</a> 👨‍💻</h1>
 
-<p>
-Aspiring IT Support and Cloud professional passionate about troubleshooting, enterprise infrastructure, Microsoft technologies, and cloud environments.  
-This portfolio showcases hands-on labs and real-world IT support scenarios built using Microsoft Azure, Windows Server, Active Directory, Microsoft 365, networking tools, and automation.
-</p>
-
 ---
 
 <h2>🖥️ Help Desk & IT Support Projects:</h2>
