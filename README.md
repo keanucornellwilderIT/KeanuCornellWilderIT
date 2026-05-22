@@ -47,44 +47,8 @@ This portfolio showcases hands-on labs and real-world IT support scenarios built
 
   ○ <a href="https://github.com/keanucornellwilderIT/PowerShell-Automation-Lab">PowerShell Automation Lab</a>
 
-<h2>📚 Technical Skills:</h2>
-
-### Operating Systems
-- Windows Server 2022
-- Windows 10/11
-- Linux Basics
-
-### Cloud & Infrastructure
-- Microsoft Azure
-- Azure Virtual Machines
-- Azure Networking
-- Virtual Networks
-- NSGs
-- VPN Configuration
-
-### Identity & Administration
-- Active Directory
-- Entra ID
-- Group Policy
-- Microsoft 365
-- Intune
-- MFA
-- RBAC
-
-### Networking
-- DNS
-- DHCP
-- TCP/IP
-- Wireshark
-- Network Troubleshooting
-
-### Automation
-- PowerShell
-- Scripting
-- Task Automation
-
----
-
+  ---
+  
 <h2>🎥 YouTube Videos:</h2>
 
 - [Help Desk and IT Support Labs](https://www.youtube.com/@KeanusTechMatrix)
