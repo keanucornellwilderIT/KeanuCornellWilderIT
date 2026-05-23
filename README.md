@@ -8,7 +8,7 @@
 
   ○ <a href="https://github.com/keanucornellwilderIT/Azure-Helpdesk-Active-Directory-Lab">Azure Active Directory Help Desk Lab</a>
 
-  ○ <a href="https://github.com/keanucornellwilderIT/Enterprise-FileShare-Printer-Lab">Enterprise File Share and Printer Lab</a>
+  ○ <a href="https://github.com/keanucornellwilderIT/Windows-FileShare-Printer-Lab">Windows File Share and Printer Lab</a>
 
 ---
 
