@@ -9,14 +9,10 @@
   ○ <a href="https://github.com/keanucornellwilderIT/Azure-Helpdesk-Active-Directory-Lab">Azure Active Directory Help Desk Lab</a>
 
   ○ <a href="https://github.com/keanucornellwilderIT/Windows-FileShare-Printer-Lab">Windows File Share and Printer Lab</a>
-
----
-
+  
 • <b>Help Desk & Ticketing Systems</b>
 
   ○ <a href="https://github.com/keanucornellwilderIT/osTicket-Helpdesk-Ticketing-System">osTicket Help Desk Ticketing System</a>
-
----
 
 • <b>Networking & Troubleshooting</b>
 
@@ -30,13 +26,11 @@
 
   ○ <a href="https://github.com/keanucornellwilderIT/Azure-Infrastructure-Networking-Lab">Azure Infrastructure and Networking Lab</a>
 
----
 
 • <b>Microsoft 365 & Identity</b>
 
   ○ <a href="https://github.com/keanucornellwilderIT/Microsoft365-Identity-Management-Lab">Microsoft 365 and Identity Management Lab</a>
 
----
 
 • <b>PowerShell & Automation</b>
 
