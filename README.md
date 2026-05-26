@@ -12,7 +12,7 @@
   
 • <b>Help Desk & Ticketing Systems</b>
 
-  ○ <a href="https://github.com/keanucornellwilderIT/osTicket-Helpdesk-Ticketing-System">osTicket Help Desk Ticketing System</a>
+  ○ <a href="https://github.com/keanucornellwilderIT/osTicket-Helpdesk-Ticketing-System-Scenarios">osTicket Help Desk Ticketing System Scenarios</a>
 
 • <b>Networking & Troubleshooting</b>
 
