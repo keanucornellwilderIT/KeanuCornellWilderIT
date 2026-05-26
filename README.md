@@ -2,7 +2,7 @@
 
 
 
-<h2>🖥️ Help Desk Projects:</h2>
+<h2>🖥️ Help Desk/IT Projects:</h2>
 
   <a href="https://github.com/keanucornellwilderIT/Helpdesk-Active-Directory-Lab">Active Directory Help Desk Lab</a>
   
