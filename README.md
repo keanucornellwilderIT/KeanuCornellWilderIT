@@ -2,39 +2,23 @@
 
 ---
 
-<h2>🖥️ Help Desk & IT Support Projects:</h2>
+<h2>🖥️ Help Desk Projects:</h2>
 
-• <b>Active Directory & Windows Server</b>
-
-  ○ <a href="https://github.com/keanucornellwilderIT/Azure-Helpdesk-Active-Directory-Lab">Azure Active Directory Help Desk Lab</a>
-
-  ○ <a href="https://github.com/keanucornellwilderIT/Windows-FileShare-Printer-Lab">Windows File Share and Printer Lab</a>
+  <a href="https://github.com/keanucornellwilderIT/Helpdesk-Active-Directory-Lab">Active Directory Help Desk Lab</a>
   
-• <b>Help Desk & Ticketing Systems</b>
-
-  ○ <a href="https://github.com/keanucornellwilderIT/osTicket-Helpdesk-Ticketing-System-Scenarios">osTicket Help Desk Ticketing System Scenarios</a>
-
-• <b>Networking & Troubleshooting</b>
-
-  ○ <a href="https://github.com/keanucornellwilderIT/Network-Troubleshooting-Wireshark-Lab">Network Troubleshooting and Wireshark Lab</a>
-
----
+  <a href="https://github.com/keanucornellwilderIT/Windows-FileShare-Printer-Lab">Windows File Share and Printer Lab</a>
+  
+  <a href="https://github.com/keanucornellwilderIT/osTicket-Helpdesk-Ticketing-System-Scenarios">osTicket Help Desk Ticketing System Scenarios</a>
+  
+  <a href="https://github.com/keanucornellwilderIT/Network-Troubleshooting-Wireshark-Lab">Network Troubleshooting and Wireshark Lab</a>
 
 <h2>☁️ Cloud & Infrastructure Projects:</h2>
 
-• <b>Microsoft Azure</b>
-
-  ○ <a href="https://github.com/keanucornellwilderIT/Azure-Infrastructure-Networking-Lab">Azure Infrastructure and Networking Lab</a>
-
-
-• <b>Microsoft 365 & Identity</b>
-
-  ○ <a href="https://github.com/keanucornellwilderIT/Microsoft365-Identity-Management-Lab">Microsoft 365 and Identity Management Lab</a>
-
-
-• <b>PowerShell & Automation</b>
-
-  ○ <a href="https://github.com/keanucornellwilderIT/PowerShell-Automation-Lab">PowerShell Automation Lab</a>
+  <a href="https://github.com/keanucornellwilderIT/Azure-Infrastructure-Networking-Lab">Azure Infrastructure and Networking Lab</a>
+  
+  <a href="https://github.com/keanucornellwilderIT/Microsoft365-Identity-Management-Lab">Microsoft 365 and Identity Management Lab</a>
+  
+  <a href="https://github.com/keanucornellwilderIT/PowerShell-Automation-Lab">PowerShell Automation Lab</a>
 
   ---
   
