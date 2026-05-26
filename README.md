@@ -1,6 +1,6 @@
 <h1>Hi, I'm Keanu, an <a href="https://www.linkedin.com/in/keanuwilder/">IT Support & Cloud Professional</a> 👨‍💻</h1>
 
----
+
 
 <h2>🖥️ Help Desk Projects:</h2>
 
@@ -12,14 +12,22 @@
   
   <a href="https://github.com/keanucornellwilderIT/Network-Troubleshooting-Wireshark-Lab">Network Troubleshooting and Wireshark Lab</a>
 
+  <a href="https://github.com/keanucornellwilderIT/DNS-Management-Troubleshooting">DNS Management and Troubleshooting</a><br>
+
+  <a href="https://github.com/keanucornellwilderIT/VPN-Configuration-Connectivity-Lab">VPN Configuration and Connectivity Lab</a><br>
+
 <h2>☁️ Cloud & Infrastructure Projects:</h2>
 
   <a href="https://github.com/keanucornellwilderIT/Azure-Infrastructure-Networking-Lab">Azure Infrastructure and Networking Lab</a>
   
   <a href="https://github.com/keanucornellwilderIT/Microsoft365-Identity-Management-Lab">Microsoft 365 and Identity Management Lab</a>
   
-  <a href="https://github.com/keanucornellwilderIT/PowerShell-Automation-Lab">PowerShell Automation Lab</a>
+  <a href="https://github.com/keanucornellwilderIT/Azure-Firewall-Configuration-Network-Security-Lab">Azure Firewall Configuration and Network Security Lab</a><br>
+  
+<h2>⚡ Automation & Administration:</h2>
 
+   <a href="https://github.com/keanucornellwilderIT/PowerShell-Automation-Lab">PowerShell Automation Lab</a>
+   
   ---
   
 <h2>🎥 YouTube Videos:</h2>
