@@ -12,7 +12,7 @@
   
   <a href="https://github.com/keanucornellwilderIT/Network-Troubleshooting-Wireshark-Lab">Network Troubleshooting Wireshark Lab</a>
 
-  <a href="https://github.com/keanucornellwilderIT/DNS-Management-Troubleshooting">DNS Management and Troubleshooting</a><br>
+  <a href="https://github.com/keanucornellwilderIT/DNS-Management-Troubleshooting">DNS Management Lab</a><br>
 
 <h2>☁️ Cloud & Infrastructure Projects:</h2>
 
