@@ -6,13 +6,23 @@
 
   <a href="https://github.com/keanucornellwilderIT/Helpdesk-Active-Directory-Lab">Active Directory Help Desk Lab</a>
   
-  <a href="https://github.com/keanucornellwilderIT/Windows-FileShare-Printer-Lab">Windows File Share and Printer Lab</a>
-  
   <a href="https://github.com/keanucornellwilderIT/osTicket-Helpdesk-Ticketing-System-Scenarios">osTicket Help Desk Ticketing System Scenarios</a>
   
   <a href="https://github.com/keanucornellwilderIT/Network-Troubleshooting-Wireshark-Lab">Network Troubleshooting Wireshark Lab</a>
 
-  <a href="https://github.com/keanucornellwilderIT/DNS-Management-Lab">DNS Management Lab</a><br>
+<h2>🖥️ System Administration Projects:</h2>
+
+  <a href="https://github.com/keanucornellwilderIT/Windows-FileShare-Printer-Lab">Windows File Share and Printer Lab</a>
+
+  <a href="https://github.com/keanucornellwilderIT/DNS-Management-Lab">DNS Management Lab</a>
+
+  <a href="https://github.com/keanucornellwilderIT/Group-Policy-Management-Lab">Group Policy Management Lab</a>
+
+  <a href="https://github.com/keanucornellwilderIT/Hybrid-Identity-Lab">Hybrid Identity Lab</a>
+
+  <a href="https://github.com/keanucornellwilderIT/Multi-Site-Active-Directory-Lab">Multi-Site Active Directory Lab</a>
+
+  <a href="https://github.com/keanucornellwilderIT/Active-Directory-Certificate-Services-Lab">Active Directory Certificate Services (AD CS) Lab</a>
 
 <h2>☁️ Cloud & Infrastructure Projects:</h2>
 
