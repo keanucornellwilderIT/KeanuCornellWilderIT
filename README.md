@@ -2,7 +2,7 @@
 
 
 
-<h2>🖥️ Help Desk/IT Projects:</h2>
+<h2>🖥️ Help Desk Projects:</h2>
 
   <a href="https://github.com/keanucornellwilderIT/Helpdesk-Active-Directory-Lab">Active Directory Help Desk Lab</a>
   
@@ -31,6 +31,12 @@
   <a href="https://github.com/keanucornellwilderIT/Microsoft365-Identity-Management-Lab">Microsoft 365 and Identity Management Lab</a>
   
   <a href="https://github.com/keanucornellwilderIT/Azure-Firewall-Configuration-Network-Security-Lab">Azure Firewall Configuration and Network Security Lab</a><br>
+
+  <a href="https://github.com/keanucornellwilderIT/Azure-Monitoring-Incident-Response-Lab">Azure Monitoring and Incident Response Lab</a>
+
+  <a href="https://github.com/keanucornellwilderIT/Azure-Security-RBAC-Lab">Azure Security and RBAC Lab</a>
+
+  <a href="https://github.com/keanucornellwilderIT/Azure-Storage-Backup-Lab">Azure Storage and Backup Lab</a><br>
   
 <h2>⚡ Automation & Administration:</h2>
 
