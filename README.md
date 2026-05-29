@@ -10,7 +10,7 @@
   
   <a href="https://github.com/keanucornellwilderIT/osTicket-Helpdesk-Ticketing-System-Scenarios">osTicket Help Desk Ticketing System Scenarios</a>
   
-  <a href="https://github.com/keanucornellwilderIT/Network-Troubleshooting-Wireshark-Lab">Netowrk Troubleshooting Wireshark Lab</a>
+  <a href="https://github.com/keanucornellwilderIT/Network-Troubleshooting-Wireshark-Lab">Network Troubleshooting Wireshark Lab</a>
 
   <a href="https://github.com/keanucornellwilderIT/DNS-Management-Troubleshooting">DNS Management and Troubleshooting</a><br>
 
