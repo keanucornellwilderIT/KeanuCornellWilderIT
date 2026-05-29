@@ -10,11 +10,9 @@
   
   <a href="https://github.com/keanucornellwilderIT/osTicket-Helpdesk-Ticketing-System-Scenarios">osTicket Help Desk Ticketing System Scenarios</a>
   
-  <a href="https://github.com/keanucornellwilderIT/Network-Troubleshooting-Wireshark-Lab">Network Troubleshooting and Wireshark Lab</a>
+  <a href="https://github.com/keanucornellwilderIT/Network-Troubleshooting-Wireshark-Lab">Netowrk Troubleshooting Wireshark Lab</a>
 
   <a href="https://github.com/keanucornellwilderIT/DNS-Management-Troubleshooting">DNS Management and Troubleshooting</a><br>
-
-  <a href="https://github.com/keanucornellwilderIT/VPN-Configuration-Connectivity-Lab">VPN Configuration and Connectivity Lab</a><br>
 
 <h2>☁️ Cloud & Infrastructure Projects:</h2>
 
