@@ -42,26 +42,12 @@
 
    <a href="https://github.com/keanucornellwilderIT/PowerShell-Automation-Lab">PowerShell Automation Lab</a>
    
-  ---
-  
-<h2>🎥 YouTube Videos:</h2>
-
-- [Help Desk and IT Support Labs](https://www.youtube.com/@KeanusTechMatrix)
-- [Azure and Active Directory Projects](https://www.youtube.com/@KeanusTechMatrix)
-- [Cloud Infrastructure and Networking Labs](https://www.youtube.com/@KeanusTechMatrix)
-- [Microsoft 365 and Entra ID Labs](https://www.youtube.com/@KeanusTechMatrix)
-- [PowerShell Automation and Scripting](https://www.youtube.com/@KeanusTechMatrix)
-- [IT Troubleshooting Scenarios](https://www.youtube.com/@KeanusTechMatrix)
-
 ---
 
 <h2>🤳 Connect with me:</h2>
 
 [<img align="left" alt="Keanu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[<img align="left" alt="Keanu | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-
 <br/>
 
 [linkedin]: https://www.linkedin.com/in/keanuwilder/
-[youtube]: https://www.youtube.com/@KeanusTechMatrix
