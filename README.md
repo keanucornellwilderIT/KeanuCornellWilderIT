@@ -2,9 +2,7 @@
 
 
 
-<h2>🖥️ Help Desk Projects:</h2>
-
-  <a href="https://github.com/keanucornellwilderIT/Helpdesk-Active-Directory-Lab">Active Directory Help Desk Lab</a>
+<h2>🖥️ IT Projects:</h2>
   
   <a href="https://github.com/keanucornellwilderIT/osTicket-Helpdesk-Ticketing-System-Scenarios">osTicket Help Desk Ticketing System Scenarios</a>
   
