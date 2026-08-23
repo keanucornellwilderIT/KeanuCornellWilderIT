@@ -12,6 +12,14 @@
 
   <a href="https://github.com/keanucornellwilderIT/Windows-DNS-Management-Troubleshooting-Lab">Windows-DNS-Management-Troubleshooting-Lab</a>
 
+<h2>🩻 Cloud Projects:</h2>
+
+  <a href="https://github.com/keanucornellwilderIT/Azure-Auto-Scaling-Web-Application">Azure-Auto-Scaling-Web-Application</a>
+  
+  <a href="https://github.com/keanucornellwilderIT/Azure-Static-Website-Deployment">Azure-Static-Website-Deployment</a>
+
+  <a href="https://github.com/keanucornellwilderIT/AWS-Auto-Scaling-Web-Application ">AWS-Auto-Scaling-Web-Application </a>
+  
 <h2>📜 Certifications </h2>
 
 - Comptia Network+ IN PROGRESS
