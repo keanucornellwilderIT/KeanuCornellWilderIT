@@ -4,7 +4,7 @@
 
 <h2>🖥️ IT Projects:</h2>
 
-  <a href="https://github.com/keanucornellwilderIT/Enterprise-osTicket-Service-Desk-Lab-Scenarios">Enterprise-osTicket-Service-Desk-Lab-Scenarios</a>
+  <a href="https://github.com/keanucornellwilderIT/Enterprise-osTicket-Service-Desk-Lab-Scenarios">Enterprise-osTicket-Service-Desk-Lab-Scenarios</a> (🥇**Flagship**)
   
   <a href="https://github.com/keanucornellwilderIT/azure-windows-active-directory-lab">azure-windows-active-directory-lab</a>
   
