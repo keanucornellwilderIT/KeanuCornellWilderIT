@@ -14,11 +14,11 @@
 
 <h2>🩻 Cloud Projects:</h2>
 
-  <a href="https://github.com/keanucornellwilderIT/Azure-Auto-Scaling-Web-Application">Azure-Auto-Scaling-Web-Application</a>
+  <a href="https://github.com/keanucornellwilderIT/Azure-Auto-Scaling-Web-Application">Azure-Auto-Scaling-Web-Application</a> (🔜**Comming Soon*)
   
-  <a href="https://github.com/keanucornellwilderIT/Azure-Static-Website-Deployment">Azure-Static-Website-Deployment</a>
+  <a href="https://github.com/keanucornellwilderIT/Azure-Static-Website-Deployment">Azure-Static-Website-Deployment</a> (🔜**Comming Soon*)
 
-  <a href="https://github.com/keanucornellwilderIT/AWS-Auto-Scaling-Web-Application ">AWS-Auto-Scaling-Web-Application </a>
+  <a href="https://github.com/keanucornellwilderIT/AWS-Auto-Scaling-Web-Application ">AWS-Auto-Scaling-Web-Application </a> (🔜**Comming Soon*)
   
 <h2>📜 Certifications </h2>
 
