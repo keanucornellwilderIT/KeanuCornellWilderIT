@@ -2,9 +2,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=1800&pause=1000&color=0078D4&width=1000&height=55&lines=IT+SUPPORT+%26+SYSTEMS+SPECIALIST;HELP+DESK+%7C+ACTIVE+DIRECTORY+%7C+AZURE;NETWORKING+%7C+WINDOWS+%7C+TROUBLESHOOTING" alt="Typing SVG" />
 <h2>🖥️ IT Projects:</h2>
 
-  <a href="https://github.com/keanucornellwilderIT/Enterprise-osTicket-Service-Desk-Lab-Scenarios">Enterprise-osTicket-Service-Desk-Lab-Scenarios</a> (🥇**Flagship**)
+  <a href="https://github.com/keanucornellwilderIT/Enterprise-osTicket-Service-Desk-Lab-Scenarios">Enterprise-osTicket-Service-Desk-Lab-Scenarios</a> 
   
-  <a href="https://github.com/keanucornellwilderIT/azure-windows-active-directory-lab">azure-windows-active-directory-lab</a>
+  <a href="https://github.com/keanucornellwilderIT/azure-windows-active-directory-lab">azure-windows-active-directory-lab</a> (🥇**Flagship**)
   
   <a href="https://github.com/keanucornellwilderIT/Wireshark-Network-Troubleshooting-Lab">Wireshark-Network-Troubleshooting-Lab</a>
 
