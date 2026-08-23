@@ -4,7 +4,7 @@
 
   <a href="https://github.com/keanucornellwilderIT/Enterprise-osTicket-Service-Desk-Lab-Scenarios">Enterprise-osTicket-Service-Desk-Lab-Scenarios</a> 
   
-  <a href="https://github.com/keanucornellwilderIT/azure-windows-active-directory-lab">azure-windows-active-directory-lab</a> (🥇**Flagship**)
+  <a href="https://github.com/keanucornellwilderIT/azure-windows-active-directory-lab">Azure-Windows-Active-Directory-Lab</a> (🥇**Flagship**)
   
   <a href="https://github.com/keanucornellwilderIT/Wireshark-Network-Troubleshooting-Lab">Wireshark-Network-Troubleshooting-Lab</a>
 
