@@ -14,7 +14,11 @@
 
   <a href="https://github.com/keanucornellwilderIT/DNS-Management-Lab">DNS Management Lab</a>
 
----
+<h2>📜 Certifications </h2>
+
+- Comptia Network+ IN PROGRESS
+
+- Microsoft Certified: Azure Fundamentals IN PROGRESS
 
 <h2>🤝 Connect with me:</h2>
 
