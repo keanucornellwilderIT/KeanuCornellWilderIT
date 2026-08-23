@@ -8,11 +8,11 @@
   
   <a href="https://github.com/keanucornellwilderIT/azure-windows-active-directory-lab">azure-windows-active-directory-lab</a>
   
-  <a href="https://github.com/keanucornellwilderIT/Network-Troubleshooting-Wireshark-Lab">Network Troubleshooting Wireshark Lab</a>
+  <a href="https://github.com/keanucornellwilderIT/Wireshark-Network-Troubleshooting-Lab">Wireshark-Network-Troubleshooting-Lab</a>
 
-  <a href="https://github.com/keanucornellwilderIT/Windows-FileShare-Printer-Lab">Windows File Share and Printer Lab</a>
+  <a href="https://github.com/keanucornellwilderIT/Windows-File-Sharing-Print-Server-Lab">Windows-File-Sharing-Print-Server-Lab</a>
 
-  <a href="https://github.com/keanucornellwilderIT/DNS-Management-Lab">DNS Management Lab</a>
+  <a href="https://github.com/keanucornellwilderIT/Windows-DNS-Management-Troubleshooting-Lab">Windows-DNS-Management-Troubleshooting-Lab</a>
 
 <h2>📜 Certifications </h2>
 
